@@ -1,3 +1,4 @@
-transformers==4.2.2
-flask==1.1.2
+Flask==2.0.1
+sql==0.4.0
 sqlite3-api==2.0.1
+transformers==4.6.0
