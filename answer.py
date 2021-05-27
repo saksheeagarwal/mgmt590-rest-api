@@ -1,4 +1,3 @@
-from sqlite3_api.example.create_database import sql
 from transformers.pipelines import pipeline
 from flask import Flask
 from flask import request
