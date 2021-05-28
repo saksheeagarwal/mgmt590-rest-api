@@ -134,8 +134,8 @@ def answer():
             for row in rows:
                 out = {
                     "timestamp": row[0],
-                    "answer": row[1],
-                    "model": row[2],
+                    "answer": row[2],
+                    "model": row[1],
                     "question":row[3],
                     "context": row[4]
                 }
